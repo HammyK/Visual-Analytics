@@ -1,2 +1,2 @@
 *.twb linguist-language=tableau 
-*.ipynb linguist-language=Python 
+*.ipynb linguist-language=jupyter notebook
