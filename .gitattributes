@@ -1,1 +1,2 @@
-*.ipynb jupyter notebook=tableau 
+*.twb linguist-language=tableau 
+*.ipynb linguist-language=Matlab
